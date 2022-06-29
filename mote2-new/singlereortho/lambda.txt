@@ -1,0 +1,12 @@
+
+ Broadening   0.0050 lambda       0.9162 dos(Ef) 68.6581 omega_ln [K]     33.2462
+ Broadening   0.0100 lambda       0.8852 dos(Ef) 68.7116 omega_ln [K]     34.4071
+ Broadening   0.0150 lambda       0.8622 dos(Ef) 66.8060 omega_ln [K]     34.4385
+ Broadening   0.0200 lambda       0.8562 dos(Ef) 65.2525 omega_ln [K]     34.2932
+ Broadening   0.0250 lambda       0.8651 dos(Ef) 64.4455 omega_ln [K]     34.1081
+ Broadening   0.0300 lambda       0.8822 dos(Ef) 64.1726 omega_ln [K]     33.8998
+ Broadening   0.0350 lambda       0.9024 dos(Ef) 64.1984 omega_ln [K]     33.6922
+ Broadening   0.0400 lambda       0.9221 dos(Ef) 64.3559 omega_ln [K]     33.5109
+ Broadening   0.0450 lambda       0.9397 dos(Ef) 64.5456 omega_ln [K]     33.3692
+ Broadening   0.0500 lambda       0.9543 dos(Ef) 64.7151 omega_ln [K]     33.2696
+

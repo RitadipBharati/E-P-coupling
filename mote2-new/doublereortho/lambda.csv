@@ -1,0 +1,10 @@
+Broadening,0.0050,lambda,0.9430,dos(Ef),65.4553,omega_ln,[K],34.9628
+Broadening,0.01,lambda,0.9316,dos(Ef),66.0219,omega_ln,[K],35.1706
+Broadening,0.015,lambda,0.9326,dos(Ef),65.6112,omega_ln,[K],35.3182
+Broadening,0.02,lambda,0.9369,dos(Ef),65.0099,omega_ln,[K],35.3074
+Broadening,0.025,lambda,0.9448,dos(Ef),64.5616,omega_ln,[K],35.1929
+Broadening,0.03,lambda,0.9554,dos(Ef),64.3376,omega_ln,[K],35.0269
+Broadening,0.035,lambda,0.9673,dos(Ef),64.2873,omega_ln,[K],34.8567
+Broadening,0.04,lambda,0.979,dos(Ef),64.3329,omega_ln,[K],34.7147
+Broadening,0.045,lambda,0.9895,dos(Ef),64.4108,omega_ln,[K],34.6133
+Broadening,0.05,lambda,0.9985,dos(Ef),64.4796,omega_ln,[K],34.5504
